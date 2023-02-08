@@ -2,7 +2,7 @@
 
 Sou o Natan,<br>
 Estudante de Análise e Desenvolvimento de Sistemas na UNIP.<br>
-Possuo foco na área de <b>Back-end</b> e atualmente estou focado na linguagem java.
+Possuo foco na área de <b>Back-end</b> e atualmente estou focado na área de Desenvolvimento de Software.
 
 ##
 

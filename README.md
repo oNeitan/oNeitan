@@ -1,8 +1,8 @@
 ### Olá Mundo!
 
 Sou o Natan,<br>
-Estudante de Análise e Desenvolvimento de Sistemas na UNIP.<br>
-Possuo foco na área de <b>Back-end</b> e atualmente estou focado na área de Desenvolvimento de Software.
+Formado em Análise e Desenvolvimento de Sistemas na UNIP.<br>
+Possuo foco na área de <b>Back-end</b> e atualmente estou estudando e me aplicando na área de Desenvolvimento de Software com Java.
 
 ##
 

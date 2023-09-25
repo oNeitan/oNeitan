@@ -1,21 +1,25 @@
-### Olá Mundo!
+## Olá Mundo! Eu sou o Natan
 
-Sou o Natan,<br>
-Formado em Análise e Desenvolvimento de Sistemas na UNIP.<br>
-Possuo foco na área de <b>Back-end</b> e atualmente estou estudando e me aplicando na área de Desenvolvimento de Software com Java.
+ 🎓 Formado em Análise e Desenvolvimento de Sistemas.<br><br>
+👨‍💻 Possuo foco na área de <b>Back-end</b> e estou estudando e me aplicando no Desenvolvimento de Software com **Java**.
 
-##
+📚 Atualmente fazendo um bootcamp da **DIO de Java e Kotlin.**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+## Tecnologias 
 
-##
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,cs,js,html,css,git)](https://skillicons.dev)
+
+
+## Minhas Contribuições
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=oNeitan&theme=nord)](https://git.io/streak-stats)
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0874b4?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/natan-santos-2ba9371a1/) 
+
+[![LinkedIn](https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=Gmail)](mailto:natansaraujo@gmail.com)
+
 
 
 
